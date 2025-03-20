@@ -12,7 +12,7 @@ A simple Android application built with Kotlin and Jetpack Compose that displays
 
 ## Screenshot
 
-[Insert screenshot here]
+![Image](https://github.com/user-attachments/assets/8fca9cc1-2bf3-4779-8953-fe02f586a6a5)
 
 ## Technologies
 
